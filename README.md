@@ -39,7 +39,7 @@ npm run serve
 
 ## In frontend folder
 
-### Clearing the db d uring network hard reset
+### Clearing the db during network hard reset
 
 ```
 npm run db-reset -- -n [ostn|pstn|stn] (-y)
